@@ -1,0 +1,14 @@
+A2: Mobile Programmierung: Hello World!
+
+=== Für InformatikerInnen ===
+
+Installieren Sie das Programmier-Framework für das Betriebssystem Ihrer Wahl
+ (Android, iOS, Cordova) und erstellen Sie eine erste App mit einem eindeutigen 
+Namen (z.B. für Android "at.ac.univie.cosy.svenjas-app"). Die App soll eine 
+klassische „Hello World“-App sein, welche auf einem Start-Screen Ihren Namen und 
+Ihre Matrikelnummer anzeigt.
+
+Punkte bekommen Sie aufgeschlüsselt nach den folgenden Kriterien:
+
+    50%: Erfolgreiche Abgabe des Codes
+    50%: App läuft flüssig und ohne Bugs im IDE-eigenen Emulator 
